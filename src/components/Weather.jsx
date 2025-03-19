@@ -43,14 +43,14 @@ export default function Weather() {
 
       <div className="  text-white flex gap-5 ">
         <div className="flex gap-3">
-          <img src="public/humidity.png" alt="" className="w-[30px] h-[30px]" />
+          <img src="/humidity.png" alt="" className="w-[30px] h-[30px]" />
           <div>
             <p>91%</p>
             <span>Humidity</span>
           </div>
         </div>
         <div className="flex gap-3 ">
-          <img src="public/wind.png" alt="" className="w-[30px] h-[30px]" />
+          <img src="/wind.png" alt="" className="w-[30px] h-[30px]" />
           <div>
             <p>3.6km/h</p>
             <span>Wind Speed</span>
